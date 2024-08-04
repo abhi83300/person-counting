@@ -1,0 +1,14 @@
+[People Counter Project]
+|
++-- [src]
+|   |
+|   +-- people_counter.py (Main script)
+|
++-- [tests]
+|   |
+|   +-- test_people_counter.py (Unit tests)
+|
++-- .gitignore (Git ignore file)
++-- README.md (Project documentation)
++-- requirements.txt (Dependencies)
++-- setup.py (Package and distribution information)
